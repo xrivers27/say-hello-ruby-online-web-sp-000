@@ -5,5 +5,5 @@ def say_hello(name = "Ruby Programmer")
 end
 
 say_hello("name")
-console.log(say_hello("John)")
+console.log(say_hello("John)"))
 say_hello("John)")
