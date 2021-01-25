@@ -5,3 +5,5 @@ def say_hello(name = "Ruby Programmer")
 end
 
 say_hello("name")
+
+say_hello("John)")
